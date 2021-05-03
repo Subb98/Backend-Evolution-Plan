@@ -33,6 +33,6 @@
 17. git config
 18. gitignore
 
-# Ссылки и полезные материалы
+# Дополнительные ссылки и полезные материалы
 1. [Книга Pro Git на русском языке](https://git-scm.com/book/ru/v2)
 2. [7 хороших практик при работе с Git](https://sourcelevel.io/blog/7-git-best-practices-to-start-using-in-your-next-commit)
