@@ -1,7 +1,7 @@
 # Система контроля версий Git
 
 &larr; [к содержанию](./table-of-contents.md)  
-&larr; [к ридми](../../README.md)
+&larr; [к readme](../../README.md)
 
 # Критерии готовности
 1. Понимание концепции Git
